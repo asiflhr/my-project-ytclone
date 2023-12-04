@@ -40,7 +40,7 @@ function App() {
     <div className='flex gap-3 flex-col items-center'>
       <MainNav />
 
-      <form
+      {/* <form
         className='flex gap-3 flex-col items-center mt-5'
         onSubmit={onSubmit}
       >
@@ -86,7 +86,7 @@ function App() {
             <span>No Search Results Found</span>
           )}
         </div>
-      )}
+      )} */}
     </div>
   )
 }
