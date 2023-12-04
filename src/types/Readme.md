@@ -1,0 +1,1 @@
+is where you keep your reusable TypeScript types (if used in a single component, I don’t include it here) — if you’re using a npm package without types, you can add index.d.ts and declare module 'package-name' so TypeScript doesn’t complain
